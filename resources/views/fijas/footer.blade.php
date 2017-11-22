@@ -10,8 +10,8 @@
         </div>
     </div>
     <div class="footer-right">
-        <p>Contact Us</p>
-        <form action="#" method="post">
+        <p>Ponte en contacto</p>
+        <form action="get" method="post">
             <input name="email" placeholder="Email" type="text">
             <textarea name="message" placeholder="Message"></textarea>
             <button>Send</button>

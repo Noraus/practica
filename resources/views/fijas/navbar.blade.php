@@ -8,7 +8,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#"><img src="http://i.imgur.com/NSOcrhj.png" alt="Kerbal"></a>
+            <a class="navbar-brand" href="/"><img src="http://i.imgur.com/NSOcrhj.png" alt="Kerbal"></a>
         </div>
         <div class="navbar-text titulo">
             KerbalTrips

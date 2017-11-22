@@ -9,7 +9,7 @@
         <div class="space1 text-center">
             <h1>Descubre la experiencia única de ver el lado oscuro de la Luna</h1>
         </div>
-        <input  id="btnRegister" type="button" class="button button-blue center-block" value="Empezar a soñar">
+        <input  id="btnRegister" type="button" class="button button-blue center-block" href="" value="Empezar a soñar">
     </div>
     <section id="iconos">
         <div class="container-fuild">

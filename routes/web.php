@@ -14,6 +14,9 @@
 Route::get('/', function () {
     return view('index');
 });
+Route::get('/get', function () {
+    return view('fijas.construccion');
+});
 
 Auth::routes();
 
