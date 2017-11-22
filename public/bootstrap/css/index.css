@@ -1,0 +1,79 @@
+.bgImg1 {
+    background-size: 1920px, 1080px;
+    background-image: url("/img/bgcielo.jpg");
+}
+.bgImg2 {
+    background-size: 1920px, 1080px;
+    background-image: url("/img/bgluna.jpg");
+}
+.space1 {
+    color: white;
+    margin-top: 100px;
+}
+.space2 {
+    height: 40vh;
+    background-color: brown;
+}
+.space3 {
+    height: 700px;
+}
+#btnRegister {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    width: 350px;
+    height: 100px;
+
+}
+.button {
+    border-radius: 3px;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.16);
+    color: #FFF;
+    text-decoration: none;
+    font-size: 35px;
+    -webkit-text-size-adjust: none;
+}
+
+.button-blue {
+    background-color: #234296;
+    border-top: 10px solid #234296;
+    border-right: 18px solid #234296;
+    border-bottom: 10px solid #234296;
+    border-left: 18px solid #234296;
+}
+
+.big-icon {
+    font-size: 150px !important;
+    color: #234296;
+}
+.icon-margin {
+    margin: auto;
+    float: right;
+    margin-right: 100px;
+    margin-bottom: 50px;
+}
+.icon-margin > h1 {
+    float: left;
+    margin-right: 500px;
+    max-width: 350px;
+}
+.separador {
+    border-color: grey;
+}
+
+.separador1 {
+    border-color: #cdcdcd;
+}
+#textoAbajo {
+    color: #FFFFFF;
+}
+/*----------------------------PARA EL VIDEO----------------------------*/
+#videoDiv {width: 100%; height: 360px; position: relative;}
+#videoBlock{ width: 100%; height: 100%;  display: flex;  justify-content: center; align-items: center;}
+#videoMessage {width: 100%; height:100%; position: absolute; top: 0; left: 0;}
+#videoMessage *{padding:0.4em; margin:0}
+#videoMessage {text-shadow: 2px 2px 2px #000000; color:white;z-index:99 }
+#videoMessage h1{font-size: 2em;color:#ffffff;text-align:center;}
+#videoMessage h2{font-size: 1.5em;color:#ffffff;text-align:center;}
+#videoMessage h3{font-size: 1.2em;color:#ffffff;text-align:center;}
+.videoClick {text-align:center}
+.videoClick a{color:white;background-color:rgba(241, 241, 241, 0.25);font-size: 1.7em;cursor:pointer;cursor:hand}
